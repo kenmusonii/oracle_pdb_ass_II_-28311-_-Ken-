@@ -29,7 +29,7 @@ The assignment demonstrates practical skills in:
 5. Created the required user and granted `CREATE SESSION` privileges.  
 
 **Evidence:**  
-![PDB Creation and User Creation ](Screenshots/PDB&User creation.png)  
+![PDB Creation and User Creation ](Screenshots/PDB&UserCreation.png)  
 
 
 ## Task 2 — Create and Delete a Temporary PDB
