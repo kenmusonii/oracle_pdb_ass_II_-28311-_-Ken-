@@ -44,8 +44,8 @@ The assignment demonstrates practical skills in:
 4. Closed and deleted it completely using `DROP PLUGGABLE DATABASE ... INCLUDING DATAFILES`.  
 
 **Evidence:**  
-![Temporary PDB Creation](screenshots/task2_pdb_creation.png)  
-![Temporary PDB Deletion](screenshots/task2_pdb_deletion.png)  
+![Temporary PDB Creation](screenshots/TempPDB_creation.PNG)  
+![Temporary PDB Deletion](screenshots/TempPDB_deletion.PNG)  
 
 ---
 
@@ -58,7 +58,7 @@ The assignment demonstrates practical skills in:
 - Verified all PDBs and user creation via SQL*Plus commands instead.
 
 **Evidence:**  
-![PDBs Verified in SQLPlus](screenshots/task3_oem_dashboard.png)  
+![PDBs Verified in SQLPlus](screenshots/Dashboard.PNG)  
 
 ## Challenges Faced
 
