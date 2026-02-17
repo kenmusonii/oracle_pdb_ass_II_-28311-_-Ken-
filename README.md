@@ -43,7 +43,9 @@ The assignment demonstrates practical skills in:
 4. Closed and deleted it completely using `DROP PLUGGABLE DATABASE ... INCLUDING DATAFILES`.  
 
 **Evidence:**  
+Creation
 ![Temporary PDB Creation](Screenshots/TempPDB_creation.PNG)  
+Deletion
 ![Temporary PDB Deletion](Screenshots/TempPDB_deletion.PNG)  
 
 ---
